@@ -10,7 +10,7 @@ function App() {
     },
     {
       id: "3",
-      name: "Gustavo Mxkay",
+      name: "Gustavo Mckay",
       telefonnummer: "004915845554441",
       isVIP: true,
     },
@@ -113,6 +113,7 @@ function App() {
       <h1>VIP-Telefonnummer</h1>
 
       <p>Alle Accounts mir einer VIP-Telefonnummer:</p>
+      <p>ohne Länder- und Ortsvorwahl</p>
       <table className="table table-hover">
         <thead>
           <tr>
